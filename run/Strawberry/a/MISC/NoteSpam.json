@@ -1,0 +1,8 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "NoteSpam",
+  "Range": 7,
+  "MaxBlock": 30
+}

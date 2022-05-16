@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "FakePlayer",
+  "TotemPops": true,
+  "TotemPopParticle": true,
+  "TotemPopSound": true,
+  "Move": true,
+  "MovementMode": "STATIC",
+  "ChaseX": 4,
+  "ChaseY": 4,
+  "ChaseZ": 4
+}

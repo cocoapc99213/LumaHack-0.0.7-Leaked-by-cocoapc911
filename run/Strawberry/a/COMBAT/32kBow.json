@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "32kBow",
+  "AntiKick": false,
+  "Bow": true,
+  "ShotTiming": 500,
+  "ShotSpeed": 100,
+  "ChatNotify": false
+}

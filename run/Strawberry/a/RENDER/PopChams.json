@@ -1,0 +1,18 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "PopChams",
+  "Self": false,
+  "RedLine": 255,
+  "GreenLine": 26,
+  "BlueLine": 42,
+  "AlphaLine": 42,
+  "RedFill": 255,
+  "GreenFill": 26,
+  "BlueFill": 42,
+  "AlphaFill": 42,
+  "FadeStart": 0.5,
+  "OnlyOneEsp": true,
+  "Rainbow": false
+}

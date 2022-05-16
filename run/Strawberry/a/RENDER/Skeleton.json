@@ -1,0 +1,13 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Skeleton",
+  "Red": 255,
+  "Green": 255,
+  "Blue": 255,
+  "Alpha": 255,
+  "LineWidth": 1.5,
+  "Friends": true,
+  "Invisibles": false
+}

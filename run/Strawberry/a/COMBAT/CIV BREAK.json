@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "CIV_BREAK",
+  "Target": "NEAREST",
+  "Break Mode": "Vanilla",
+  "Rotate": true,
+  "Start Delay": 1,
+  "Break Delay": 1,
+  "Crystal Delay": 1,
+  "Hit Delay": 3,
+  "Block Delay": 3
+}

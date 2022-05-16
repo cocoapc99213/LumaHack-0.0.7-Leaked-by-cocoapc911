@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Logo",
+  "logoX": 0,
+  "logoY": 32,
+  "logoWidth": 97,
+  "logoHeight": 60
+}

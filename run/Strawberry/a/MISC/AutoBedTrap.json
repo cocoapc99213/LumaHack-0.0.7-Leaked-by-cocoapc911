@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "AutoBedTrap",
+  "Range": 5,
+  "Delay": 1,
+  "Extra Packet": false,
+  "Rotate": false,
+  "Packet": true
+}

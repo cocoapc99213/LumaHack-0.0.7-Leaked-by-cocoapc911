@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "TrapPhaseAnvil",
+  "Blocks": "EN_CHEST",
+  "Speed": 0.5,
+  "Offset": 0.5,
+  "Switch": true,
+  "Place": true
+}

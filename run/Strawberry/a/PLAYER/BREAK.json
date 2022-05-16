@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "BREAK",
+  "CreativeMode": true,
+  "GhostHand": true,
+  "FastUpDate": true,
+  "Render": true
+}

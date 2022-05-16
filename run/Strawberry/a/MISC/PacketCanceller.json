@@ -1,0 +1,17 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "PacketCanceller",
+  "Input": false,
+  "Player": false,
+  "Abilities": false,
+  "Digging": false,
+  "TryUseItem": false,
+  "TryUseItemOnBlock": false,
+  "EntityAction": false,
+  "UseEntity": false,
+  "Vehicle": false,
+  "SendChat": false,
+  "Animation": false
+}

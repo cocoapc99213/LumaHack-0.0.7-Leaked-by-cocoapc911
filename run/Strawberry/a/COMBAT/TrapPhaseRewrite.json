@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "TrapPhaseRewrite",
+  "Speed": 0.5,
+  "Blocks": "EN_CHEST",
+  "Offset": 0.5,
+  "Switch": true,
+  "Place": true
+}

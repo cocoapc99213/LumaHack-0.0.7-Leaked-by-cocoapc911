@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "NewBlocker",
+  "Piston": true,
+  "CevBreaker": true,
+  "Range": 6.1,
+  "PacketPlace": true
+}

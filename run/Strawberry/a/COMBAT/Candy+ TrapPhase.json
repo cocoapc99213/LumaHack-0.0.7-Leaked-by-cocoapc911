@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Candy+_TrapPhase",
+  "Blocks": "EN_CHEST",
+  "Offset": 0.2,
+  "SilentSwitch": true,
+  "PacketPlace": true
+}

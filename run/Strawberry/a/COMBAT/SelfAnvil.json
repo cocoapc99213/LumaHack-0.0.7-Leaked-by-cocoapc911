@@ -1,0 +1,12 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "SelfAnvil",
+  "Rotate": true,
+  "HoleOnly": false,
+  "HelpingBlocks": true,
+  "Chat Msgs": true,
+  "Packet": false,
+  "Blocks/Tick": 2
+}

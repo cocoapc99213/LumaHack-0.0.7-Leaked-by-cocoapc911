@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "AntiAim",
+  "Spin Speed": 5.0,
+  "Jitter Offset": 230.0,
+  "Mode": "Spin"
+}

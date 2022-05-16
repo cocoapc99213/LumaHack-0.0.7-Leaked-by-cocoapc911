@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "TrapPhase",
+  "Mode": "OB",
+  "Offset": 0.2,
+  "SilentSwitch": true,
+  "PacketPlace": true
+}

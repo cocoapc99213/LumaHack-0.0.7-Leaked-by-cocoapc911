@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "Notification",
+  "Mode": "MAL",
+  "Time": 1.5,
+  "Speed": 3.0,
+  "Toggle": true,
+  "Log": true
+}

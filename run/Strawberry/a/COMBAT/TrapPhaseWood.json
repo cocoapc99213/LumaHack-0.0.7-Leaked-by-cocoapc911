@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "TrapPhaseWood",
+  "Jump": false,
+  "JumpOffset": 0.3,
+  "Delay": 1,
+  "Toggle": true
+}

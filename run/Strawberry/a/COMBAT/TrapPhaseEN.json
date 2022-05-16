@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Keybind": "None",
+  "DisplayName": "TrapPhaseEN",
+  "Speed": 0.5,
+  "Offset": 0.5,
+  "Switch": true,
+  "Place": true
+}
